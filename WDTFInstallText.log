@@ -1,0 +1,73 @@
+WDTFInstall: Check if already installed
+WDTFInstall:    No HKCR\WDTFActions.1. 2
+
+WDTFInstall:    No HKCR\WDTFActions. 2
+
+WDTFInstall:    No HKCR\WDTF.1. 2
+
+WDTFInstall:    No HKCR\WDTF. 2
+
+WDTFInstall: Not already installed
+WDTFInstall: IOSPY Install Path: C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\
+WDTFInstall:    IoSpy Installed.
+WDTFInstall: IOSPY Filter driver installed
+WDTFInstall: EDT Install Path: C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\
+WDTFInstall:    EDT Installed.
+WDTFInstall: EDT Filter driver installed
+WDTFInstall: Install Software Power Button driver
+WDTFInstall: Software Power Button Driver Install Path: C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\Actions\System\ 
+WDTFInstall: Software Power Button driver installed
+WDTFInstall: Install Simulated Battery drivers
+WDTFInstall: Simulated Battery Drivers Install Path: C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\Actions\SimulatedBattery\ 
+WDTFInstall: Simulated Battery drivers installed
+WDTFInstall: Regsiter WDTF
+WDTFInstall: Delete registry state.
+
+WDTFInstall:    Deleted HKCR\WDTF.
+WDTFInstall:    Deleted HKCR\WDTFActions.
+WDTFInstall: Register COM DLLs.
+
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\Deprecated\DeviceManagement.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\DeviceSupport\WDTFDeviceSupportAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\DrvPkgLibExt.dll".
+WDTFInstall:       Not a COM DLL
+
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\EDT\WDTFEDTAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\IoSpy\WDTFIoAttackAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\IoSpy\WDTFIoSpyAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\SimpleIO_D3DTest.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFAnySimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFAudioSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFBluetoothSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFCDROMSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFMobileBroadbandSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFMUTT2STRESSSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFMUTT2TCDSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFNetworkSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\wdtfsensorsiosimpleioaction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFVolumeSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFWebcamSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFWirelessSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimpleIO\WDTFWPDSimpleIoAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\SimulatedBattery\WDTFSimulatedBatterySystemAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\System\WDTFSystemAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFConcurrentIOAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFCpuUtilizationSystemAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFDriverPackageAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFDriverSetupDeviceAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFDriverSetupSystemAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFDriverVerifierSystemAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFFuzzTestAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFInterfaces\WDTFInterfaces.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFPNPAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\Actions\WDTFSUPAction.dll".
+WDTFInstall:    Process "C:\Program Files\Windows Kits\10\Testing\Runtimes\WDTF\RunTime\\WDTF.DLL".
+WDTFInstall: Update registry state.
+
+WDTFInstall:    Deleted HKCR\WDTFActions.1.
+WDTFInstall:    Create/Open HKCR\WDTFActions.1.
+WDTFInstall:    Copy HKCR\WDTFActions to HKCR\WDTFActions.1.
+WDTFInstall:    Deleted HKCR\WDTF.1.
+WDTFInstall:    Create/Open HKCR\WDTF.1.
+WDTFInstall:    Copy HKCR\WDTF to HKCR\WDTF.1.
+WDTFInstall: Regsiter WDTF Completed

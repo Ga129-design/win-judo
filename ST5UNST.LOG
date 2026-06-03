@@ -1,0 +1,488 @@
+ %% NON MODIFICARE O ELIMINARE QUESTO FILE. %% 
+ %% Il file contiene informazioni sull'installazione di un'applicazione. %% 
+ %% Verrà utilizzato per rimuovere automaticamente dal computer in uso tutti i componenti dell'applicazione se si sceglie di eseguire tale operazione. %% 
+
+
+NOTE: Inizio della sezione bootstrap
+
+CONFIG: Title: "WinJudo_SERV"
+
+ACTION: TempFile: "C:\Windows\setup1.exe"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SharedFile: "C:\Windows\System32\VB5StKit.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\VB5IT.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSVBVM50.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\StdOle2.tlb"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\OleAut32.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\OlePro32.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\AsycFilt.dll"
+(Il file presente sul disco era già aggiornato)
+
+NOTE: Il file 'Ctl3d32.dll' non è stato copiato perché viene utilizzato solo con Windows NT 3.51. Non è necessario in Windows 95 o NT 4.0.
+
+ACTION: SystemFile: "C:\Windows\System32\Ctl3d32.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\ComCat.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSVBVM50.dll"
+
+ACTION: TLBRegister: "C:\WINDOWS\system32\StdOle2.tlb"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\OleAut32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\OlePro32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\ComCat.dll"
+
+NOTE: Fine della sezione bootstrap
+
+NOTE: Generazione del programma di installazione principale 'C:\Windows\setup1.exe' in corso....
+
+ACTION: SharedFile: "C:\Windows\System32\DBGRID32.OCX"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\DBGrdIT.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\dao2535.tlb"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSJtEr35.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSJInt35.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSVCRT40.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SharedFile: "C:\Windows\System32\comctl32.ocx"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\CmCtlIT.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\ppro20g.ocx"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\ppro200.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MFC42.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\MSVCRT.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SharedFile: "C:\Windows\System32\pptif200.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn13.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn1213.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn1313.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn1513.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn1813.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn8213.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\picn8913.ssm"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\CRYSTL32.OCX"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SharedFile: "C:\Windows\System32\CC245IT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\CRPE32.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\CR2C40IT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\IMPLODE.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\PG32.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\CO2C40EN.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSVCRT20.DLL"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: CreateDir: "C:\WINDOWS\Crystal"
+
+ACTION: SharedFile: "C:\Windows\Crystal\CRXLAT32.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P2BBND.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P3D4BDIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P2BDAO.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P3BDAOIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P2CTDAO.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P3CDAOIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P2IRDAO.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P3RDAOIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P2SODBC.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\P3S4ODIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2DDISK.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2D4DKIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2DMAPI.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2D4MPIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FCR.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4CRIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FDIF.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4DFIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FHTML.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4HTIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FREC.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4RCIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FRTF.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4RTIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FSEPV.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4SVIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FTEXT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4TXIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FWKS.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4WKIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FWORDW.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4WDIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\U2FXLS.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\Crystal\X2F4XLIT.DLL"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSJet35.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\VBAJet32.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SharedFile: "C:\Windows\System32\VB5DB.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MSRD2x35.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\MsRepl35.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: SystemFile: "C:\Windows\System32\ODBCJt32.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\ODBCJI32.dll"
+(Il file presente sul disco era già aggiornato)
+
+ACTION: SystemFile: "C:\Windows\System32\ODBCTL32.dll"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\WinJudoSERV.exe"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\Accredito.mdb"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\Anteprima.mdb"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\DbaseStor.mdb"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\DbaseTipo.mdb"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\anteprima.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\brochure.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\camere.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\clascum.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\clascuma.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\clascumn.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\cl-cate.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-cate.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-catea.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-caten.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-classpe0.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-classpe1.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-classpe2.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-classpe3.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-classpe4.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\e-team.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\f-appo.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\f-atleti.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\incasso.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\incassoold.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\kg.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\kg_manycat.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\medaglie.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\punti.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\ricevuta.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\t_32.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\tabnaz.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\verb_pag1.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\v-peso.rpt"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: PrivateFile: "c:\FExcel.xls"
+(Impossibile trovare il file o versione del file non aggiornata. È stato copiato il nuovo file.)
+
+ACTION: DllSelfRegister: "C:\Windows\System32\DBGRID32.OCX"
+
+ACTION: TLBRegister: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\dao2535.tlb"
+
+ACTION: DllSelfRegister: "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.dll"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\comctl32.ocx"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\ppro20g.ocx"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MFC42.dll"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\CRYSTL32.OCX"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Riprova')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Impossibile trovare in 'C:\Windows\System32\CC245IT.DLL' il punto di ingresso per DllRegisterServer()
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+*** ERRORE: Errore durante la registrazione del file 'C:\Windows\System32\CC245IT.DLL'
+*** ERRORE: (L'utente ha risposto con 'Ignora')
+*** DURANTE QUESTA OPERAZIONE: DllSelfRegister: "C:\Windows\System32\CC245IT.DLL"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSJet35.dll"
+
+ACTION: DllSelfRegister: "C:\Windows\System32\MSRD2x35.dll"
+
+ACTION: ShellLink: "", "WinJudo_SERV"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\WinJudoSERV.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\WinJudoSERV.exe", ""
+
